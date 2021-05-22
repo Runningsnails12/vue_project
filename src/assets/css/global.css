@@ -25,6 +25,19 @@ body,
     text-align: center;
     margin-top: 20px;
 }
-.el-cascader-menu{
-  height: 300px;
+
+.el-cascader-menu {
+    height: 300px;
+}
+
+.el-steps {
+    margin: 15px 0;
+}
+
+.el-step__title {
+    font-size: 13px;
+}
+
+.ql-editor {
+    min-height: 300px;
 }
